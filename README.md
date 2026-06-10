@@ -24,8 +24,4 @@ Hi, I'm Gabriella Fortune.<br>I am a bioinformatics student at Virginia Commonwe
 
 ### ⇧ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamissfortune&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=iamissfortune&icon=7&color=8)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
