@@ -15,6 +15,7 @@ Bioinformatics Tools:<br>
 ![Clustal Omega](https://img.shields.io/badge/Clustal%20Omega-9467BD.svg?style=for-the-badge&logo=code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=EclipseIDE&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NCBI](https://img.shields.io/badge/NCBI-0033A0.svg?style=for-the-badge&logo=code&logoColor=white)
 ![PECAAN](https://img.shields.io/badge/PECAAN-8A2BE2.svg?style=for-the-badge&logo=code&logoColor=white)
