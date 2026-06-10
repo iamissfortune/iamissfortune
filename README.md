@@ -43,4 +43,6 @@ Software & AI:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriella-fortune) 
 
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamissfortune&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
