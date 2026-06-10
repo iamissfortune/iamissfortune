@@ -24,7 +24,6 @@ Bioinformatics Tools:<br>
 Data Analytics: <br>
 ![SciPy ANOVA Model](https://img.shields.io/badge/ANOVA%20Model-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F37626.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Heatmap Creation](https://img.shields.io/badge/Heatmap%20Creation-8A2BE2.svg?style=for-the-badge&logo=code&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
