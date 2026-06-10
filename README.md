@@ -32,7 +32,7 @@ Data Analytics: <br>
 Software & AI:<br>
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Adobe Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-111111.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude-DE7356.svg?style=for-the-badge&logo=Claude&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
