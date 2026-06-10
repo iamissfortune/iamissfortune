@@ -1,11 +1,7 @@
 # ❀ About Me:
 Hi, I'm Gabriella Fortune.<br>I am a bioinformatics student at Virginia Commonwealth University specializing in Biology/Genomic Sciences with minors in Anthropology, Chemistry, and Biology.<br><br>Driven by a fascination with evolutionary biology and commitment to preserving our planet’s biodiversity, my interests lie in projects involving evolution, conservation, and genomic bioinformatics. Whether annotating bacteriophage genomes or refining species migration models, my focus remains on making a significant impact on preservation in biodiversity.<br><br>I am dedicated to bridging the gap between bioinformatics and conservation through computational innovation. By utilizing analytical tools like my Species Tracker algorithm, I transformed Global Biodiverstiy Information Facilitys dataset into interactive insights.<br>
 
-
-## ☕︎ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriella-fortune) 
-
-# </> Tech Stack:
+# 🖳 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -17,3 +13,6 @@ Hi, I'm Gabriella Fortune.<br>I am a bioinformatics student at Virginia Commonwe
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+## ☕︎ Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriella-fortune) 
