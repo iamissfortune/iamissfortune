@@ -17,11 +17,3 @@ Hi, I'm Gabriella Fortune.<br>I am a bioinformatics student at Virginia Commonwe
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-
-## 𐃯 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamissfortune&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ⇧ Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamissfortune&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
