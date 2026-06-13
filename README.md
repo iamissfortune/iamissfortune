@@ -48,8 +48,8 @@ Software & AI:<br>
 “your next commit will fix everything… or break everything.”
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/animated-svg/animated-svg/main/loaders/brain-loading.svg" width="200">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-
+![brain](https://img.shields.io/badge/brain-buffering-yellow)
 
