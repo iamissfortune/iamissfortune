@@ -44,4 +44,12 @@ Software & AI:<br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamissfortune&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+🔮 today’s fortune:
+“your next commit will fix everything… or break everything.”
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/animated-svg/animated-svg/main/loaders/brain-loading.svg" width="200">
+</p>
+
+
 
